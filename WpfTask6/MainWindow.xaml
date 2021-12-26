@@ -10,6 +10,5 @@
         <TextBox x:Name="textBox" HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="780" Height="245" VerticalScrollBarVisibility="Auto" Margin="0,71,0,0"/>
         <Button x:Name="But1" Content="Button" HorizontalAlignment="Left" Margin="250,321,0,0" VerticalAlignment="Top" Height="103" Width="320" Click="But1_Click"/>
         <TextBox x:Name="textBoxTemperature" HorizontalAlignment="Left" Margin="36,34,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
     </Grid>
 </Window>
